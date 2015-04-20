@@ -1,12 +1,16 @@
 NOTE BY d4fseeker:
-	EnhanceIO seems to be more or less abandonware by Stec Inc after it was purchased by HGST (Hitachi hard drives)
-	since 2014 even though individual authors have confirmed to continue processing bugreports in their free time.
-	However several issues and problems have surfaced since then. This fork attempts to merge patches from multiple
-	authors into a single coherent and cloneable repository.
+	EnhanceIO seems to be more or less abandonware by Stec Inc after 
+	it was purchased by HGST (Hitachi hard drives) since 2014 even
+	though individual authors have confirmed to continue processing 
+	bugreports in their free time. 	However several issues and problems 
+	have surfaced since then. This fork attempts to merge patches from 
+	multiple authors into a single coherent and cloneable repository.
 	
 WARNING:
-	Do not use this repository unless you know what you are doing! I cannot guarantee stability or functionality
-	and the repository might be abandoned without any announcement or indication. You have been warned!
+	Do not use this repository unless you know what you are doing! 
+	I cannot guarantee stability or functionality 	and the repository
+	might be abandoned without any announcement or indication. 
+	You have been warned!
 	
 ORIGINAL README below:
 
